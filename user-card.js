@@ -16,7 +16,6 @@ template.innerHTML = `
       padding: 10px;
       text-align: center;
       background: gray;
-
     }
     img {
       width: 250px;
